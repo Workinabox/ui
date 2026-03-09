@@ -13,4 +13,3 @@ fn App() -> impl IntoView {
         </div>
     }
 }
-
